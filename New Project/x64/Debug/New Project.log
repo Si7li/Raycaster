@@ -1,0 +1,61 @@
+﻿  main.c
+C:\Users\user\Documents\New Project\New Project\main.c(22,13): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(22,17): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(27,13): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(27,17): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(28,15): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(28,25): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(67,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(74,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(75,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(76,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(85,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(91,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(123,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(129,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(159,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\user\Documents\New Project\New Project\main.c(159,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\user\Documents\New Project\New Project\main.c(169,14): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(169,18): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(170,14): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(170,18): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(174,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(175,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(176,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(181,27): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(182,32): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(184,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(185,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(186,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(72,25): warning C4101: 'disT': unreferenced local variable
+C:\Users\user\Documents\New Project\New Project\main.c(194,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(195,33): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\user\Documents\New Project\New Project\main.c(201,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(201,71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(203,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(203,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(203,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(204,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(204,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(204,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(213,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(214,62): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(218,62): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(219,62): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(208,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(208,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(208,77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(209,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(209,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(209,77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(255,18): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\user\Documents\New Project\New Project\main.c(255,23): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\user\Documents\New Project\New Project\main.c(255,28): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\user\Documents\New Project\New Project\main.c(257,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(257,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\New Project\New Project\main.c(262,22): warning C4047: 'function': 'char **' differs in levels of indirection from 'char ***'
+C:\Users\user\Documents\New Project\New Project\main.c(262,18): warning C4024: 'glutInit_ATEXIT_HACK': different types for formal and actual parameter 2
+C:\Users\user\Documents\New Project\New Project\main.c(268,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  New Project.vcxproj -> C:\Users\user\Documents\New Project\x64\Debug\New Project.exe
